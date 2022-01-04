@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	projectID = `mooov-255299`
+	projectID = `my-project`
 	Bucket    = `mooov-counters`
 )
 
